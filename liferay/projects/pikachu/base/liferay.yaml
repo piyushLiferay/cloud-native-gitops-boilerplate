@@ -1,3 +1,4 @@
 liferay-default:
   image:
-    tag: 2025.q4.12
+    tag: 2025.q1.22-lts
+    
